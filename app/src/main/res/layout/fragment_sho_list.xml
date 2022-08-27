@@ -8,7 +8,7 @@
             name="shoesviewmodel"
             type="com.udacity.shoestore.ShoesViewModel" />
     </data>
-
+<!--using constrainlayout to have more control on element position like floatingactionbutton -->
     <androidx.constraintlayout.widget.ConstraintLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"

@@ -3,6 +3,13 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/eslam/Desktop/project1/ShoeStore/nd940-android-kotlin-course1-starter/starter/app/src/main/res/layout/activity_main.xml" value="0.2269021739130435" />
+        <entry key="..\:/Users/eslam/Desktop/project1/ShoeStore/nd940-android-kotlin-course1-starter/starter/app/src/main/res/layout/fragment_instruction.xml" value="0.2269021739130435" />
+        <entry key="..\:/Users/eslam/Desktop/project1/ShoeStore/nd940-android-kotlin-course1-starter/starter/app/src/main/res/layout/fragment_login.xml" value="0.2269021739130435" />
+        <entry key="..\:/Users/eslam/Desktop/project1/ShoeStore/nd940-android-kotlin-course1-starter/starter/app/src/main/res/layout/fragment_sho_detail.xml" value="0.2269021739130435" />
+        <entry key="..\:/Users/eslam/Desktop/project1/ShoeStore/nd940-android-kotlin-course1-starter/starter/app/src/main/res/layout/fragment_sho_list.xml" value="0.2269021739130435" />
+        <entry key="..\:/Users/eslam/Desktop/project1/ShoeStore/nd940-android-kotlin-course1-starter/starter/app/src/main/res/layout/fragment_welcom.xml" value="0.1" />
+        <entry key="..\:/Users/eslam/Desktop/project1/ShoeStore/nd940-android-kotlin-course1-starter/starter/app/src/main/res/layout/items.xml" value="0.2269021739130435" />
         <entry key="..\:/Users/eslam/Desktop/project1/nd940-android-kotlin-course1-starter/starter/app/src/main/res/drawable/btn_styke.xml" value="0.123" />
         <entry key="..\:/Users/eslam/Desktop/project1/nd940-android-kotlin-course1-starter/starter/app/src/main/res/drawable/btn_style.xml" value="0.123" />
         <entry key="..\:/Users/eslam/Desktop/project1/nd940-android-kotlin-course1-starter/starter/app/src/main/res/layout/activity_main.xml" value="0.12487335359675786" />
